@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SREEKUTTY R @Liaitis
 - 🌱 I’m currently learning Msc Data Science
-- 📫 How to reach me @sreekutty1201@gmail.com
+- 📫 How to reach me sreekutty1201@gmail.com
 
 <!---
 Liaitis/Liaitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
