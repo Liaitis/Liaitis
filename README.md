@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SREEKUTTY R @Liaitis
-- 🌱 I’m currently learning MSc Data Science
+- 🌱 I have completed my master's degree in MSc Data Science.
 - 📫 How to reach me sreekutty1201@gmail.com
 
 <!---
