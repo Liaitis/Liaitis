@@ -1,7 +1,12 @@
-- 👋 Hi, I’m SREEKUTTY R @Liaitis
-- 🌱 I have completed my master's degree in MSc Data Science.
-- 📫 How to reach me sreekutty1201@gmail.com
-- You can connect with me on LinkedIn at [@Sreekutty R](https://www.linkedin.com/in/sreekutty-r-6555b0246/) 👍.
+# 👋 Hi there, I’m Sreekutty R (@Liaitis)
+
+🎓 I’ve completed my Master’s degree in Data Science.  
+💼 Currently, I’m working as an **Apprentice** in the **Technical Relationship Management (TRM)** team at S&P Global.  
+🌱 Continuously learning and exploring the vast potential of data science in business and technology.  
+
+📫 Reach me at: **sreekutty1201@gmail.com**  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sreekutty-r)  
+
 
 <!---
 Liaitis/Liaitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
