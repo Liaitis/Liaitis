@@ -1,4 +1,4 @@
-👋 Hi there, I’m Sreekutty R (@Liaitis)
+👋 Hi there, I’m **Sreekutty R** (@Liaitis)
 
 🎓 I’ve completed my Master’s degree in Data Science.  
 💼 Currently, I’m working as an **Apprentice** in the **Technical Relationship Management (TRM)** team at S&P Global.  
